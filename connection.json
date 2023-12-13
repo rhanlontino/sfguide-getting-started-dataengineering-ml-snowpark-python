@@ -1,9 +1,9 @@
 {
-  "account"   : "",
-  "user"      : "",
-  "password"  : "",
+  "account"   : "JUXWQBN-RP57651",
+  "user"      : "rhanlon",
+  "password"  : "Kimmage23!",
   "role"      : "ACCOUNTADMIN",
-  "warehouse" : "",
+  "warehouse" : "DASH_L",
   "database"  : "DASH_DB",
   "schema"    : "DASH_SCHEMA"
 }
